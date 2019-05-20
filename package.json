@@ -8,6 +8,7 @@
     "dev": "node server.js",
     "build": "next build",
     "now-build": "next build",
+    "export": "next export",
     "start": "NODE_ENV=production node server.js"
   },
   "repository": {
